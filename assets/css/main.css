@@ -1,3 +1,4 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css);
 .categoriesImg, .bannerMobile {
   border-radius: 10px;
   border: solid 1px rgb(218, 218, 218);
@@ -12,6 +13,10 @@
 }
 .categories p {
   font-size: 13px;
+}
+
+.categoriesImg {
+  width: 160px;
 }
 
 /*# sourceMappingURL=main.css.map */
