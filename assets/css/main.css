@@ -1,5 +1,17 @@
-.bannerMobile {
+.categoriesImg, .bannerMobile {
   border-radius: 10px;
+  border: solid 1px rgb(218, 218, 218);
+}
+
+.categories {
+  margin-top: 10px;
+}
+.categories h3 {
+  margin-top: 10px;
+  font-size: 17px;
+}
+.categories p {
+  font-size: 13px;
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,13 @@
+.categories{
+    margin-top: 10px;
+    h3{
+        margin-top: 10px;
+        font-size: 17px;
+    }
+    p{
+        font-size: 13px
+    }
+}
+.categoriesImg{
+    @extend %borderRadius;
+}
