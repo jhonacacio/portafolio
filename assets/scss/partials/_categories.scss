@@ -4,11 +4,17 @@
         margin-top: 10px;
         font-size: 17px;
     }
+    h2{
+        margin-top: 15px;
+    }
     p{
         font-size: 13px
     }
 }
 .categoriesImg{
     @extend %borderRadius;
-    width: 160px;
+    width: 100%;
+}
+.album{
+    margin: auto;
 }
