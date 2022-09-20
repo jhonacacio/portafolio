@@ -1,5 +1,5 @@
 .bodyContainer{
-    background: linear-gradient(90deg, rgba(15,12,41,1) 0%, rgba(48,43,99,1) 100%);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(33, 33, 33) 100%);
 }
 .categories{
     background-color: rgba(0, 0, 0, 0.32);
@@ -9,4 +9,14 @@
 
 .enlacesIndex{
     margin-top: 20px;
+    .nav-link {
+        color: rgb(219, 219, 219);
+        background-color: rgb(37, 37, 37);
+        margin: 7px;
+        border-radius: 10px;
+        &:hover{
+            background-color: rgb(164 255 0);
+            color: #000;
+        }
+    }
 }
